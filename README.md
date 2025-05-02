@@ -1,6 +1,6 @@
 # Prediksi Waktu Pengiriman Makanan
 
-Final project ini bertujuan untuk memprediksi waktu pengiriman makanan berdasarkan data logistik seperti kondisi cuaca, lalu lintas, tipe kendaraan, dan jarak.
+Sebagai bagian dari pembelajaran data science, saya menyelesaikan proyek akhir yang bertujuan untuk memprediksi status pengiriman makanan (Tepat Waktu vs Terlambat) menggunakan algoritma klasifikasi.
 
 ## 📊 Deskripsi Proyek
 - Tipe: Klasifikasi
